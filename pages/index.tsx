@@ -16,9 +16,8 @@ const Home: NextPage = () => {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>
-          <a href="https://naver.com">JS의 블로그</a>에
-          오신걸 환영합니다!
+        <h1 className="text-3xl font-bold underline">
+          Judy의 기술블로그
         </h1>
       </main>
     </div>
